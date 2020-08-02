@@ -19,6 +19,10 @@ and the elliptic curves P-256 and P-521. The code base is derived from Bitcoin c
 For more information, as well as an immediately usable, readable version of
 the CryptexBlue (CXB) Core application, see https://cryptexblue.com/about.html
 
+Whitepaper
+-------
+Bitcoin 6.0 framework whitepaper co-authored by Dr. Yuvraj Kumar and Satoshi Nakamoto can be downloaded from this link: https://www.cryptexblue.com/assets/whitepaper/Military_Grade_e-Payment_System_v1.0.pdf. Please note this document is the property of the respective author / co-author and of the licensing partners. The whitepaper is released in as is condition and usage of it should be rightly referred to or citations must be provided. Cryptexblue payment system is based on Bitcoin 6.0 framework as mentioned above. 
+
 License
 -------
 
