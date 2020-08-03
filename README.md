@@ -8,13 +8,13 @@ What is CryptexBlue (CXB)?
 ----------------
 
 CryptexBlue (CXB) is a digital currency that enables instant payments to
-anyone, anywhere in the world using encrypted channel of cryptexbank's own bitcoin node network. CryptexBlue (CXB) of Cryptex Bank Inc. uses P2P technology to operate
-with no central authority: managing transactions and issuing money are carried
-out collectively by the network. CryptexBlue (CXB) Core is the name of open source
+anyone, anywhere in the world using encrypted channel of cryptexbank's own bitcoin node network. CryptexBlue (CXB) of Cryptex Bank Inc. doesn't use P2P technology anymore. To operate
+with a central authority: managing transactions and issuing money are carried
+out collectively by the anti-node network as the system is now implemented to not to run on P2P channel. Cryptex doesn't use Miners any more and that the blockcypher processing is done on a hidden channel as published in the bitcoin 6.0 whitepaper. CryptexBlue (CXB) Core is the name of open source
 software which enables the use of this currency. CryptexBlue's servers use military grade multi-level encryption to provide enhanced security in which both
 Bitcoin (BTC) and Cryptexblue (CXB) blocks travel through the global encrypted blockchain network. Online payment of bitcoins happen through dedicated bitcoin payment channel 
 at https://bitcoin.cryptexblue.com. Encryption applied is AES-256 with CCM/CGM with 4096 bit (RSA+SHA2). Underlying node transport system uses SHA 256, 
-and the elliptic curves P-256 and P-521. The code base is derived from Bitcoin core and Cryptexblue (CXB) uses the master repo of bitcoin.
+and the elliptic curves P-256 and P-521. The code base is derived from Bitcoin core and Cryptexblue (CXB) uses the master repo of bitcoin and the excryption standards applied on this core are custom with algo codes ppkgvsea9917, ppkdvsea9918 respectively.
 
 For more information, as well as an immediately usable, readable version of
 the CryptexBlue (CXB) Core application, see https://cryptexblue.com/about.html
