@@ -1,6 +1,7 @@
 # Cryptex Bank Inc. - Cryptocurrency Payments Bank
 
 =====================================
+
 Cryptocoin Name - CryptexBlue (CXB)
 
 Network - Non-standard Bitcoin Network
