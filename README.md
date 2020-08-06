@@ -1,8 +1,12 @@
 # Cryptex Bank Inc. - Cryptocurrency Payments Bank
+
 =====================================
 Cryptocoin Name - CryptexBlue (CXB)
+
 Network - Non-standard Bitcoin Network
+
 Encryption Framework - Private Blockchain Network (PPKGV9917, 9918)
+
 Warning - Bitcoin Blockchain cannot be connected to trading / exchange network.
 
 https://cryptexblue.com/
